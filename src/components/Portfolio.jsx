@@ -3,7 +3,7 @@ import Image6 from '../assets/Image6.jpg'
 
 export default function Portfolio() {
   return (
-    <div style={{height:"90vh",width:"100vw",background:'linear-gradient(to bottom,violet,black)'}}>
+    <div style={{height:"90vh",width:"100vw",background:'linear-gradient(to bottom,purple,black)'}}>
       <img src={Image6} style={{height:530,width:450,position:"absolute",top:140,left:70,borderRadius:15,border:"5px solid white"}}></img>
 
         <p style={{color:"white",fontSize:19,left:650,position:"absolute",textAlign:"center",top:75}}>1. Personal Portfolio Website
