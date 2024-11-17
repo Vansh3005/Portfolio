@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vansh3005.github.io/repository-redux-",
+  "homepage": " https://github.com/Vansh3005/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
